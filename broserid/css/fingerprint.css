@@ -1,0 +1,78 @@
+body {
+    background: #f6f8fa;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 420px;
+    margin: 40px auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+    padding: 32px 24px 24px 24px;
+}
+h1 {
+    font-size: 1.5em;
+    margin-bottom: 18px;
+    color: #0984e3;
+    text-align: center;
+}
+.visitor-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #f1f7ff;
+    border: 1.5px solid #d6eaff;
+    border-radius: 8px;
+    padding: 18px 14px;
+    margin-bottom: 18px;
+    justify-content: space-between;
+}
+.visitor-label {
+    font-weight: 500;
+    color: #555;
+    margin-right: 8px;
+}
+.visitor-id {
+    font-family: 'Fira Mono', 'Consolas', monospace;
+    font-size: 1.08em;
+    color: #222;
+    background: #eaf6ff;
+    padding: 4px 8px;
+    border-radius: 5px;
+    word-break: break-all;
+    flex: 1 1 auto;
+    margin-right: 8px;
+}
+.copy-btn {
+    background: #0984e3;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 14px;
+    font-size: 1em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+.copy-btn:hover {
+    background: #065fa7;
+}
+.info-box {
+    background: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 16px 14px;
+    color: #444;
+    font-size: 1em;
+    min-height: 60px;
+    margin-bottom: 8px;
+}
+.copied-msg {
+    color: #27ae60;
+    font-size: 0.98em;
+    margin-left: 8px;
+    display: none;
+}
