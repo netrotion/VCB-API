@@ -1,19 +1,19 @@
-# VCB DigiBank UNOFFICIAL API
+# VCB DigiBank UNOFFICIAL API 🚀
 
-## Giới thiệu
+## Giới thiệu 📢
 
 Đây là project tự động hóa đăng nhập và lấy lịch sử giao dịch tài khoản Vietcombank (VCB DigiBank) thông qua API web. Dự án sử dụng Python để mô phỏng quá trình đăng nhập, giải captcha, mã hóa/giải mã dữ liệu và lấy thông tin giao dịch. Ngoài ra, project còn cung cấp giao diện web đơn giản để lấy BrowserID (Fingerprint) phục vụ cho quá trình đăng nhập.
 
-## Tính năng
+## Tính năng ✨
 
-- Tự động đăng nhập tài khoản VCB DigiBank bằng username, password và BrowserID.
-- Tự động giải captcha bằng API (Dùng của mình hoặc tự build theo folder model).
-- Mã hóa/giải mã dữ liệu theo chuẩn của VCB.
-- Lấy toàn bộ lịch sử giao dịch trong khoảng thời gian tùy chọn.
-- Hỗ trợ proxy và tùy chỉnh session.
-- Giao diện web lấy BrowserID (Fingerprint) dễ sử dụng.
+- 🔐 Tự động đăng nhập tài khoản VCB DigiBank bằng username, password và BrowserID.
+- 🤖 Tự động giải captcha bằng API (Dùng của mình hoặc tự build theo folder model).
+- 🔒 Mã hóa/giải mã dữ liệu theo chuẩn của VCB.
+- 📊 Lấy toàn bộ lịch sử giao dịch trong khoảng thời gian tùy chọn.
+- 🌐 Hỗ trợ proxy và tùy chỉnh session.
+- 🖥️ Giao diện web lấy BrowserID (Fingerprint) dễ sử dụng.
 
-## Cấu trúc thư mục
+## Cấu trúc thư mục 📁
 
 ```
 VCB/
@@ -39,7 +39,7 @@ VCB/
 └── README.md
 ```
 
-## Hướng dẫn sử dụng
+## Hướng dẫn sử dụng 🛠️
 
 ### 1. Cài đặt thư viện
 
@@ -66,13 +66,13 @@ python main.py
 
 Kết quả sẽ trả về lịch sử giao dịch tài khoản.
 
-## Lưu ý
+## Lưu ý ⚠️
 
-- Không chia sẻ thông tin tài khoản cho bất kỳ ai.
-- Không sử dụng project cho mục đích thương mại hoặc vi phạm pháp luật.
-- Project chỉ mang tính chất nghiên cứu và học tập.
+- ❗ Không chia sẻ thông tin tài khoản cho bất kỳ ai.
+- 🚫 Không sử dụng project cho mục đích thương mại hoặc vi phạm pháp luật.
+- 📚 Project chỉ mang tính chất nghiên cứu và học tập.
 
-## Đóng góp
+## Đóng góp 🤝
 
 Mọi đóng góp, báo lỗi hoặc ý tưởng cải tiến xin gửi issue hoặc pull request.
 
