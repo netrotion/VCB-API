@@ -1,3 +1,4 @@
 Flask==2.2.5
 curl_cffi==0.10.0
 pycryptodome==3.21.0
+crcmod==1.7

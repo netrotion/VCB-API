@@ -20,12 +20,14 @@ VCB/
 ├── main.py
 ├── utils/
 │   ├── _algorithm.py
+│   ├── _params.py
 │   ├── captcha_solving.py
 │   └── __init__.py
 ├── config/
 │   └── user.json
 ├── broserid/
 │   ├── index.html
+│   ├── index.py
 │   ├── css/
 │   │   └── fingerprint.css
 │   └── js/
@@ -65,6 +67,36 @@ python main.py
 ```
 
 Kết quả sẽ trả về lịch sử giao dịch tài khoản.
+
+---
+
+## Ví dụ sử dụng các hàm thao tác với Thư viện VCB-API
+
+```python
+# main.py
+
+#... exist code...
+
+# Đăng nhập tài khoản
+session = vcb_api.login(username="your_username", password="your_password", browser_id="your_browserid")
+
+# Lấy thông tin tài khoản
+account_info = vcb_api.get_account_info(session)
+print("Thông tin tài khoản:", account_info)
+
+# Lấy lịch sử giao dịch trong khoảng thời gian
+history = vcb_api.get_transaction_history(session, from_date="2024-01-01", to_date="2024-05-28")
+print("Lịch sử giao dịch:", history)
+
+# Kiểm tra số tài khoản bank bất kỳ
+nquiry_holdername = vcb_api._nquiry_holdername("0345370248", BANKCODE().MB["bankcode"])
+print("Thông tin bank: ", nquiry_holdername)
+```
+
+> Thay thế `your_username`, `your_password`, `your_browserid` bằng thông tin thực tế của bạn.  
+> Các hàm có thể thay đổi tùy theo cách bạn tổ chức code trong `utils/` hoặc `main.py`.
+
+---
 
 ## Lưu ý ⚠️
 

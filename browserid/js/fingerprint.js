@@ -5,7 +5,7 @@ function setCookie(name, value, days) {
     document.cookie = name + "=" + value + ";" + expires + ";path=/";
 }
 async function getFingerprint() {
-    const fpPromise = FingerprintJS.load({ monitoring: false });
+    const fpPromise = FingerprintJS.load({ monitoring: !1 });
     const fp = await fpPromise;
     const result = await fp.get();
     setCookie("visitorId", result.visitorId, 7);

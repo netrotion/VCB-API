@@ -8,7 +8,10 @@ from Crypto.Util import Counter
 from Crypto.Random import get_random_bytes
 from Crypto import Random
 from datetime import datetime, timezone, timedelta
-
+from time import time
+from random import random
+import crcmod
+import hashlib
 VN_TZ = timezone(timedelta(hours=7))
 
 #static
@@ -113,3 +116,18 @@ def decrypt_response(enc_obj: dict, private_key_pem: str) -> dict:
     data = d[16:]
     decrypted_data = aes_decrypt(data, aes_key, iv)
     return json.loads(decrypted_data.decode())
+
+def x_lim_id(params):
+    hash_obj = hashlib.sha256((params + LOCAL["crcKey"]).encode())
+    W = hash_obj.hexdigest() 
+
+    return W
+
+def x_requests_id(params):
+    millis = str(int(time() * 1000)) 
+    rand = str(int(random() * 100)) 
+    crc16 = crcmod.predefined.mkCrcFun('crc-16')
+    crc_val = format(crc16(params.encode()), 'x') 
+    U = millis + rand + crc_val
+    return U
+

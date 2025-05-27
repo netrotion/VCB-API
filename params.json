@@ -1,0 +1,2554 @@
+[
+    {
+        "omniBankCode": "0001",
+        "nameVi": "Ngân hàng TMCP Ngoại Thương Việt Nam",
+        "nameEn": "Vietcombank",
+        "brandName": "Vietcombank",
+        "logo": "./assets/media/bank-icon/vietcombank.svg",
+        "binCard": "(970436)(526418)(428310)(621295)(377160)(469173)(477390)(403277)(222806)(452404)(379195)(377967)(377159)(412975)(412976)(461136)(477389)(438103)(469174)(466236)(546284)(546285)(514003)(356770)(356771)(356435)(356769)",
+        "supportChannel": [
+            {
+                "channel": 5,
+                "bankCode": "970436"
+            }
+        ],
+        "image": "./assets/media/bank-icon/vietcombank.svg",
+        "code": "0001",
+        "name": "Vietcombank",
+        "sub": "Ngân hàng TMCP Ngoại Thương Việt Nam",
+        "subEn": "Joint Stock Commercial Bank for Foreign Trade of Vietnam",
+        "label": "Vietcombank - Ngân hàng TMCP Ngoại Thương Việt Nam",
+        "labelEn": "Vietcombank - Joint Stock Commercial Bank for Foreign Trade of Vietnam"
+    },
+    {
+        "omniBankCode": "2",
+        "nameVi": "Ngân hàng Đầu tư và phát triển Việt Nam",
+        "nameEn": "BIDV",
+        "brandName": "BIDV",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970418.png",
+        "binCard": "(970418)(427126)(411153)(428695)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970418"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01202002"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970418.png",
+        "code": "2",
+        "name": "BIDV",
+        "sub": "Ngân hàng Đầu tư và phát triển Việt Nam",
+        "subEn": "Joint Stock Commercial Bank for Investment and Development of Vietnam",
+        "label": "BIDV - Ngân hàng Đầu tư và phát triển Việt Nam",
+        "labelEn": "BIDV - Joint Stock Commercial Bank for Investment and Development of Vietnam"
+    },
+    {
+        "omniBankCode": "3",
+        "nameVi": "Ngân hàng Công Thương Việt Nam",
+        "nameEn": "VIETINBANK",
+        "brandName": "VIETINBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970415.png",
+        "binCard": "(970415)(530581)(457271)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970415"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01201001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970415.png",
+        "code": "3",
+        "name": "VIETINBANK",
+        "sub": "Ngân hàng Công Thương Việt Nam",
+        "subEn": "Vietnam Joint Stock Commercial Bank of Industry and Trade",
+        "label": "VIETINBANK - Ngân hàng Công Thương Việt Nam",
+        "labelEn": "VIETINBANK - Vietnam Joint Stock Commercial Bank of Industry and Trade"
+    },
+    {
+        "omniBankCode": "4",
+        "nameVi": "Ngân hàng Nông nghiệp và phát triển nông thôn Việt Nam",
+        "nameEn": "AGRIBANK",
+        "brandName": "AGRIBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970405.png",
+        "binCard": "(970405)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970405"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01204001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970405.png",
+        "code": "4",
+        "name": "AGRIBANK",
+        "sub": "Ngân hàng Nông nghiệp và phát triển nông thôn Việt Nam",
+        "subEn": "Vietnam Bank for Agriculture and Rural Development ",
+        "label": "AGRIBANK - Ngân hàng Nông nghiệp và phát triển nông thôn Việt Nam",
+        "labelEn": "AGRIBANK - Vietnam Bank for Agriculture and Rural Development "
+    },
+    {
+        "omniBankCode": "5",
+        "nameVi": "Ngân hàng An Bình",
+        "nameEn": "ABBANK",
+        "brandName": "ABBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970425.png",
+        "binCard": "(970425)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970425"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01323002"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970425.png",
+        "code": "5",
+        "name": "ABBANK",
+        "sub": "Ngân hàng An Bình",
+        "subEn": "An Binh Bank",
+        "label": "ABBANK - Ngân hàng An Bình",
+        "labelEn": "ABBANK - An Binh Bank"
+    },
+    {
+        "omniBankCode": "6",
+        "nameVi": "Ngân hàng Á Châu",
+        "nameEn": "ACB",
+        "brandName": "ACB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970416.png",
+        "binCard": "(970416)(421494)(479139)(436599)(356795)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970416"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79307001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970416.png",
+        "code": "6",
+        "name": "ACB",
+        "sub": "Ngân hàng Á Châu",
+        "subEn": "Asia Commercial Joint Stock Bank",
+        "label": "ACB - Ngân hàng Á Châu",
+        "labelEn": "ACB - Asia Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "7",
+        "nameVi": "Ngân hàng TNHH Một Thành Viên ANZ Việt Nam",
+        "nameEn": "ANZ",
+        "brandName": "ANZ",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "01602002"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "7",
+        "name": "ANZ",
+        "sub": "Ngân hàng TNHH Một Thành Viên ANZ Việt Nam",
+        "subEn": "ANZ Bank Vietnam Limited ",
+        "label": "ANZ - Ngân hàng TNHH Một Thành Viên ANZ Việt Nam",
+        "labelEn": "ANZ - ANZ Bank Vietnam Limited "
+    },
+    {
+        "omniBankCode": "8",
+        "nameVi": "Ngân hàng Bắc Á",
+        "nameEn": "BAC A BANK",
+        "brandName": "BAC A BANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970409.png",
+        "binCard": "(970409)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970409"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01313007"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970409.png",
+        "code": "8",
+        "name": "BAC A BANK",
+        "sub": "Ngân hàng Bắc Á",
+        "subEn": "BAC A Commercial Joint Stock Bank ",
+        "label": "BAC A BANK - Ngân hàng Bắc Á",
+        "labelEn": "BAC A BANK - BAC A Commercial Joint Stock Bank "
+    },
+    {
+        "omniBankCode": "9",
+        "nameVi": "Ngân hàng Bangkok Bank - CN TP Hồ Chí Minh",
+        "nameEn": "BANGKOK BANK",
+        "brandName": "BANGKOK BANK",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79612001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "9",
+        "name": "BANGKOK BANK",
+        "sub": "Ngân hàng Bangkok Bank - CN TP Hồ Chí Minh",
+        "subEn": "Bangkok Bank - Ho Chi Minh City Branch",
+        "label": "BANGKOK BANK - Ngân hàng Bangkok Bank - CN TP Hồ Chí Minh",
+        "labelEn": "BANGKOK BANK - Bangkok Bank - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "10",
+        "nameVi": "Ngân hàng Bangkok Bank - CN Hà Nội",
+        "nameEn": "BANGKOK BANK",
+        "brandName": "BANGKOK BANK",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "01667001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "10",
+        "name": "BANGKOK BANK",
+        "sub": "Ngân hàng Bangkok Bank - CN Hà Nội",
+        "subEn": "Bangkok Bank - Ha Noi Branch",
+        "label": "BANGKOK BANK - Ngân hàng Bangkok Bank - CN Hà Nội",
+        "labelEn": "BANGKOK BANK - Bangkok Bank - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "11",
+        "nameVi": "Ngân hàng Bảo Việt",
+        "nameEn": "BAO VIET BANK",
+        "brandName": "BAO VIET BANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970438.png",
+        "binCard": "(970438)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970438"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01359001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970438.png",
+        "code": "11",
+        "name": "BAO VIET BANK",
+        "sub": "Ngân hàng Bảo Việt",
+        "subEn": "Bao Viet Joint Stock commercial Bank",
+        "label": "BAO VIET BANK - Ngân hàng Bảo Việt",
+        "labelEn": "BAO VIET BANK - Bao Viet Joint Stock commercial Bank"
+    },
+    {
+        "omniBankCode": "12",
+        "nameVi": "Ngân hàng BPCE IOM",
+        "nameEn": "BFCE",
+        "brandName": "BFCE",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79601001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "12",
+        "name": "BFCE",
+        "sub": "Ngân hàng BPCE IOM",
+        "subEn": "BPCE IOM bank",
+        "label": "BFCE - Ngân hàng BPCE IOM",
+        "labelEn": "BFCE - BPCE IOM bank"
+    },
+    {
+        "omniBankCode": "13",
+        "nameVi": "Ðầu Tư và Phát Triển Campuchia - CN TP Hồ Chí Minh",
+        "nameEn": "BIDC",
+        "brandName": "BIDC",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/555666.png",
+        "binCard": "()",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79648001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/555666.png",
+        "code": "13",
+        "name": "BIDC",
+        "sub": "Ðầu Tư và Phát Triển Campuchia - CN TP Hồ Chí Minh",
+        "subEn": "BIDC - Ho Chi Minh City Branch",
+        "label": "BIDC - Ðầu Tư và Phát Triển Campuchia - CN TP Hồ Chí Minh",
+        "labelEn": "BIDC - BIDC - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "14",
+        "nameVi": "Ðầu Tư và Phát Triển Campuchia - CN Hà Nội",
+        "nameEn": "BIDC",
+        "brandName": "BIDC",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/555666.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "555666"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01638001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/555666.png",
+        "code": "14",
+        "name": "BIDC",
+        "sub": "Ðầu Tư và Phát Triển Campuchia - CN Hà Nội",
+        "subEn": "BIDC bank - Ha Noi Branch",
+        "label": "BIDC - Ðầu Tư và Phát Triển Campuchia - CN Hà Nội",
+        "labelEn": "BIDC - BIDC bank - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "15",
+        "nameVi": "Ngân hàng Busan",
+        "nameEn": "BNK",
+        "brandName": "BNK",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79660001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "15",
+        "name": "BNK",
+        "sub": "Ngân hàng Busan",
+        "subEn": "Busan Bank Co., Ltd",
+        "label": "BNK - Ngân hàng Busan",
+        "labelEn": "BNK - Busan Bank Co., Ltd"
+    },
+    {
+        "omniBankCode": "16",
+        "nameVi": "Ngân hàng BNP Paribas – CN TP Hồ Chí Minh",
+        "nameEn": "BNP PARIBAS HCM",
+        "brandName": "BNP PARIBAS HCM",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963666.jpg",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "963666"
+            },
+            {
+                "channel": 3,
+                "bankCode": "79614001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963666.jpg",
+        "code": "16",
+        "name": "BNP PARIBAS HCM",
+        "sub": "Ngân hàng BNP Paribas – CN TP Hồ Chí Minh",
+        "subEn": "BNP Paribas - Ho Chi Minh City Branch",
+        "label": "BNP PARIBAS HCM - Ngân hàng BNP Paribas – CN TP Hồ Chí Minh",
+        "labelEn": "BNP PARIBAS HCM - BNP Paribas - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "17",
+        "nameVi": "Ngân hàng BNP Paribas – CN Hà Nội",
+        "nameEn": "BNP PARIBAS HN",
+        "brandName": "BNP PARIBAS HN",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963668.jpg",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "963668"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01657001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963668.jpg",
+        "code": "17",
+        "name": "BNP PARIBAS HN",
+        "sub": "Ngân hàng BNP Paribas – CN Hà Nội",
+        "subEn": "BNP Paribas - Ha Noi Branch",
+        "label": "BNP PARIBAS HN - Ngân hàng BNP Paribas – CN Hà Nội",
+        "labelEn": "BNP PARIBAS HN - BNP Paribas - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "18",
+        "nameVi": "Ngân hàng Bank of China (Hongkong) Limited – CN TP Hồ Chí Minh",
+        "nameEn": "BOCHK",
+        "brandName": "BOCHK",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "963688"
+            },
+            {
+                "channel": 3,
+                "bankCode": "79620001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "18",
+        "name": "BOCHK",
+        "sub": "Ngân hàng Bank of China (Hongkong) Limited – CN TP Hồ Chí Minh",
+        "subEn": "Bank of China (Hongkong) Limited - Ho Chi Minh City Branch",
+        "label": "BOCHK - Ngân hàng Bank of China (Hongkong) Limited – CN TP Hồ Chí Minh",
+        "labelEn": "BOCHK - Bank of China (Hongkong) Limited - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "19",
+        "nameVi": "Ngân hàng Bank of Communications Co., Ltd",
+        "nameEn": "BOCOM",
+        "brandName": "BOCOM",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79615001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "19",
+        "name": "BOCOM",
+        "sub": "Ngân hàng Bank of Communications Co., Ltd",
+        "subEn": "Bank of Communications Limited",
+        "label": "BOCOM - Ngân hàng Bank of Communications Co., Ltd",
+        "labelEn": "BOCOM - Bank of Communications Limited"
+    },
+    {
+        "omniBankCode": "20",
+        "nameVi": "Ngân hàng Bank of India",
+        "nameEn": "BOI - BANK OF INDIA",
+        "brandName": "BOI - BANK OF INDIA",
+        "binCard": "()",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79659001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "20",
+        "name": "BOI - BANK OF INDIA",
+        "sub": "Ngân hàng Bank of India",
+        "subEn": "Bank of India",
+        "label": "BOI - BANK OF INDIA - Ngân hàng Bank of India",
+        "labelEn": "BOI - BANK OF INDIA - Bank of India"
+    },
+    {
+        "omniBankCode": "21",
+        "nameVi": "Ngân hàng SINOPAC",
+        "nameEn": "BSP",
+        "brandName": "BSP",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79632001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "21",
+        "name": "BSP",
+        "sub": "Ngân hàng SINOPAC",
+        "subEn": "SINOPAC bank",
+        "label": "BSP - Ngân hàng SINOPAC",
+        "labelEn": "BSP - SINOPAC bank"
+    },
+    {
+        "omniBankCode": "22",
+        "nameVi": "Ngân hàng số Timo - Ngân hàng TMCP Bản Việt",
+        "nameEn": "BVBANK TIMO",
+        "brandName": "BVBANK TIMO",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963388.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "963388"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963388.png",
+        "code": "22",
+        "name": "BVBANK TIMO",
+        "sub": "Ngân hàng số Timo - Ngân hàng TMCP Bản Việt",
+        "subEn": "BVBank Timo - Viet Capital Bank",
+        "label": "BVBANK TIMO - Ngân hàng số Timo - Ngân hàng TMCP Bản Việt",
+        "labelEn": "BVBANK TIMO - BVBank Timo - Viet Capital Bank"
+    },
+    {
+        "omniBankCode": "23",
+        "nameVi": "Ngân hàng CAKE BY VPBANK",
+        "nameEn": "CAKE",
+        "brandName": "CAKE",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/546034.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "546034"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/546034.png",
+        "code": "23",
+        "name": "CAKE",
+        "sub": "Ngân hàng CAKE BY VPBANK",
+        "subEn": "CAKE by VPBANK",
+        "label": "CAKE - Ngân hàng CAKE BY VPBANK",
+        "labelEn": "CAKE - CAKE by VPBANK"
+    },
+    {
+        "omniBankCode": "24",
+        "nameVi": "Ngân hàng TM TNHH Một Thành Viên Ngoại thương Công nghệ số",
+        "nameEn": "VCBNeo",
+        "brandName": "VCBNeo",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970444.png",
+        "binCard": "()",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970444"
+            },
+            {
+                "channel": 2,
+                "bankCode": "80339001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970444.png",
+        "code": "24",
+        "name": "VCBNeo",
+        "sub": "Ngân hàng TM TNHH Một Thành Viên Ngoại thương Công nghệ số",
+        "subEn": "Vietcombank Neo Limited",
+        "label": "VCBNeo - Ngân hàng TM TNHH Một Thành Viên Ngoại thương Công nghệ số",
+        "labelEn": "VCBNeo - Vietcombank Neo Limited"
+    },
+    {
+        "omniBankCode": "25",
+        "nameVi": "Ngân hàng Xây dựng Trung Quốc",
+        "nameEn": "CCB",
+        "brandName": "CCB",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79611001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "25",
+        "name": "CCB",
+        "sub": "Ngân hàng Xây dựng Trung Quốc",
+        "subEn": "China Construction Bank",
+        "label": "CCB - Ngân hàng Xây dựng Trung Quốc",
+        "labelEn": "CCB - China Construction Bank"
+    },
+    {
+        "omniBankCode": "26",
+        "nameVi": "Ngân hàng TNHH MTV CIMB Việt Nam",
+        "nameEn": "CIMB",
+        "brandName": "CIMB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/422589.png",
+        "binCard": "(422589)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "422589"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01661001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/422589.png",
+        "code": "26",
+        "name": "CIMB",
+        "sub": "Ngân hàng TNHH MTV CIMB Việt Nam",
+        "subEn": "CIMB Bank (Vietnam) Limited",
+        "label": "CIMB - Ngân hàng TNHH MTV CIMB Việt Nam",
+        "labelEn": "CIMB - CIMB Bank (Vietnam) Limited"
+    },
+    {
+        "omniBankCode": "27",
+        "nameVi": "Ngân hàng Citibank Việt Nam - CN Hà Nội",
+        "nameEn": "CITIBANK",
+        "brandName": "CITIBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/533948.png",
+        "binCard": "(534763)(531922)(437373)(437374)(533948)(437841)",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "01605001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/533948.png",
+        "code": "27",
+        "name": "CITIBANK",
+        "sub": "Ngân hàng Citibank Việt Nam - CN Hà Nội",
+        "subEn": "Citibank Viet Nam - Ha Noi Branch",
+        "label": "CITIBANK - Ngân hàng Citibank Việt Nam - CN Hà Nội",
+        "labelEn": "CITIBANK - Citibank Viet Nam - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "28",
+        "nameVi": "Ngân hàng Citibank Việt Nam",
+        "nameEn": "CITIBANK",
+        "brandName": "CITIBANK",
+        "binCard": "(534763)(531922)(437373)(437374)(533948)(437841)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "533948"
+            },
+            {
+                "channel": 3,
+                "bankCode": "79654001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "28",
+        "name": "CITIBANK",
+        "sub": "Ngân hàng Citibank Việt Nam",
+        "subEn": "Citibank Việt Nam",
+        "label": "CITIBANK - Ngân hàng Citibank Việt Nam",
+        "labelEn": "CITIBANK - Citibank Việt Nam"
+    },
+    {
+        "omniBankCode": "29",
+        "nameVi": "Ngân hàng Hợp tác xã Việt Nam",
+        "nameEn": "CO-OPBANK",
+        "brandName": "CO-OPBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970446.png",
+        "binCard": "(970446)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970446"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01901001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970446.png",
+        "code": "29",
+        "name": "CO-OPBANK",
+        "sub": "Ngân hàng Hợp tác xã Việt Nam",
+        "subEn": "Co-operative bank of Vietnam",
+        "label": "CO-OPBANK - Ngân hàng Hợp tác xã Việt Nam",
+        "labelEn": "CO-OPBANK - Co-operative bank of Vietnam"
+    },
+    {
+        "omniBankCode": "30",
+        "nameVi": "Ngân hàng Crédit Agricole Corporate and Investment - CN TP Hồ Chí Minh",
+        "nameEn": "CREDIT AGRICOLE",
+        "brandName": "CREDIT AGRICOLE",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79621001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "30",
+        "name": "CREDIT AGRICOLE",
+        "sub": "Ngân hàng Crédit Agricole Corporate and Investment - CN TP Hồ Chí Minh",
+        "subEn": "Crédit Agricole Corporate And Investment Bank - Ho Chi Minh City Branch",
+        "label": "CREDIT AGRICOLE - Ngân hàng Crédit Agricole Corporate and Investment - CN TP Hồ Chí Minh",
+        "labelEn": "CREDIT AGRICOLE - Crédit Agricole Corporate And Investment Bank - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "31",
+        "nameVi": "Ngân hàng TNHH CTBC",
+        "nameEn": "CTBC",
+        "brandName": "CTBC",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79629001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "31",
+        "name": "CTBC",
+        "sub": "Ngân hàng TNHH CTBC",
+        "subEn": "CTBC Bank Co.,Ltd",
+        "label": "CTBC - Ngân hàng TNHH CTBC",
+        "labelEn": "CTBC - CTBC Bank Co.,Ltd"
+    },
+    {
+        "omniBankCode": "32",
+        "nameVi": "Ngân hàng Cathay United - CN Chu Lai",
+        "nameEn": "CUB CL",
+        "brandName": "CUB CL",
+        "binCard": "()",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "49634001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "32",
+        "name": "CUB CL",
+        "sub": "Ngân hàng Cathay United - CN Chu Lai",
+        "subEn": "Cathay United Bank - Chu Lai bracnch",
+        "label": "CUB CL - Ngân hàng Cathay United - CN Chu Lai",
+        "labelEn": "CUB CL - Cathay United Bank - Chu Lai bracnch"
+    },
+    {
+        "omniBankCode": "33",
+        "nameVi": "Cathay United Bank – CN TP Hồ Chí Minh",
+        "nameEn": "CUB HCM",
+        "brandName": "CUB HCM",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/168999.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "168999"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/168999.png",
+        "code": "33",
+        "name": "CUB HCM",
+        "sub": "Cathay United Bank – CN TP Hồ Chí Minh",
+        "subEn": "Cathay United Bank - Ho Chi Minh City Branch",
+        "label": "CUB HCM - Cathay United Bank – CN TP Hồ Chí Minh",
+        "labelEn": "CUB HCM - Cathay United Bank - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "34",
+        "nameVi": "Ngân hàng DBS - CN Hồ Chí Minh",
+        "nameEn": "DBS",
+        "brandName": "DBS",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/796500.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "796500"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79650001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/796500.png",
+        "code": "34",
+        "name": "DBS",
+        "sub": "Ngân hàng DBS - CN Hồ Chí Minh",
+        "subEn": "DBS Bank Ltd - Ho Chi Minh City Branch",
+        "label": "DBS - Ngân hàng DBS - CN Hồ Chí Minh",
+        "labelEn": "DBS - DBS Bank Ltd - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "35",
+        "nameVi": "Ngân hàng DEUTSCHE BANK",
+        "nameEn": "DEUTSCHE BANK",
+        "brandName": "DEUTSCHE BANK",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79619001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "35",
+        "name": "DEUTSCHE BANK",
+        "sub": "Ngân hàng DEUTSCHE BANK",
+        "subEn": "Deutsche Bank",
+        "label": "DEUTSCHE BANK - Ngân hàng DEUTSCHE BANK",
+        "labelEn": "DEUTSCHE BANK - Deutsche Bank"
+    },
+    {
+        "omniBankCode": "36",
+        "nameVi": "Ngân hàng Daegu - CN TP Hồ Chí Minh",
+        "nameEn": "DGB DAEGU CN HCM",
+        "brandName": "DGB DAEGU CN HCM",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970444.png",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79668001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970444.png",
+        "code": "36",
+        "name": "DGB DAEGU CN HCM",
+        "sub": "Ngân hàng Daegu - CN TP Hồ Chí Minh",
+        "subEn": "Daegu Bank - Ho Chi Minh City Branch",
+        "label": "DGB DAEGU CN HCM - Ngân hàng Daegu - CN TP Hồ Chí Minh",
+        "labelEn": "DGB DAEGU CN HCM - Daegu Bank - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "37",
+        "nameVi": "Ngân hàng Trách nhiệm hữu hạn Một thành viên số Vikki",
+        "nameEn": "Vikki Bank",
+        "brandName": "Vikki Bank",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963311.png",
+        "binCard": "(970406)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970406"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79304001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963311.png",
+        "code": "37",
+        "name": "Vikki Bank",
+        "sub": "Ngân hàng Trách nhiệm hữu hạn Một thành viên số Vikki",
+        "subEn": "Vikki Digital Bank Limited",
+        "label": "Vikki Bank - Ngân hàng Trách nhiệm hữu hạn Một thành viên số Vikki",
+        "labelEn": "Vikki Bank - Vikki Digital Bank Limited"
+    },
+    {
+        "omniBankCode": "38",
+        "nameVi": "Ngân hàng E.SUN BANK",
+        "nameEn": "ESB",
+        "brandName": "ESB",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "75658001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "38",
+        "name": "ESB",
+        "sub": "Ngân hàng E.SUN BANK",
+        "subEn": "E.SUN BANK",
+        "label": "ESB - Ngân hàng E.SUN BANK",
+        "labelEn": "ESB - E.SUN BANK"
+    },
+    {
+        "omniBankCode": "39",
+        "nameVi": "Ngân hàng Xuất Nhập khẩu",
+        "nameEn": "EXIMBANK",
+        "brandName": "EXIMBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970431.png",
+        "binCard": "(970431)(404152)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970431"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79305001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970431.png",
+        "code": "39",
+        "name": "EXIMBANK",
+        "sub": "Ngân hàng Xuất Nhập khẩu",
+        "subEn": "Viet nam Export Import Commercial Joint Stock",
+        "label": "EXIMBANK - Ngân hàng Xuất Nhập khẩu",
+        "labelEn": "EXIMBANK - Viet nam Export Import Commercial Joint Stock"
+    },
+    {
+        "omniBankCode": "40",
+        "nameVi": "Ngân hàng First Commercial Bank - CN Hà Nội",
+        "nameEn": "FIRSTBANK",
+        "brandName": "FIRSTBANK",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "01608001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "40",
+        "name": "FIRSTBANK",
+        "sub": "Ngân hàng First Commercial Bank - CN Hà Nội",
+        "subEn": "First Commercial Bank - Ha Noi Branch",
+        "label": "FIRSTBANK - Ngân hàng First Commercial Bank - CN Hà Nội",
+        "labelEn": "FIRSTBANK - First Commercial Bank - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "41",
+        "nameVi": "Ngân hàng First Commercial Bank - CN TP Hồ Chí Minh",
+        "nameEn": "FIRSTBANK",
+        "brandName": "FIRSTBANK",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79630001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "41",
+        "name": "FIRSTBANK",
+        "sub": "Ngân hàng First Commercial Bank - CN TP Hồ Chí Minh",
+        "subEn": "First Commercial Bank - Ho Chi Minh City Branch",
+        "label": "FIRSTBANK - Ngân hàng First Commercial Bank - CN TP Hồ Chí Minh",
+        "labelEn": "FIRSTBANK - First Commercial Bank - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "43",
+        "nameVi": "Ngân hàng Dầu khí toàn cầu",
+        "nameEn": "GPBANK",
+        "brandName": "GPBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970408.png",
+        "binCard": "(970408)(559463)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970408"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01320001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970408.png",
+        "code": "43",
+        "name": "GPBANK",
+        "sub": "Ngân hàng Dầu khí toàn cầu",
+        "subEn": "Global Petro Sole Member Limited Commercial Bank",
+        "label": "GPBANK - Ngân hàng Dầu khí toàn cầu",
+        "labelEn": "GPBANK - Global Petro Sole Member Limited Commercial Bank"
+    },
+    {
+        "omniBankCode": "44",
+        "nameVi": "Ngân hàng Agricultural Bank of China Limited - CN Hà Nội",
+        "nameEn": "HANOI ABC",
+        "brandName": "HANOI ABC",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "01664001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "44",
+        "name": "HANOI ABC",
+        "sub": "Ngân hàng Agricultural Bank of China Limited - CN Hà Nội",
+        "subEn": "Agricultural Bank of China Limited - Ha Noi Branch",
+        "label": "HANOI ABC - Ngân hàng Agricultural Bank of China Limited - CN Hà Nội",
+        "labelEn": "HANOI ABC - Agricultural Bank of China Limited - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "45",
+        "nameVi": "Ngân hàng Phát triển TP.HCM",
+        "nameEn": "HD BANK",
+        "brandName": "HD BANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970437.png",
+        "binCard": "(523472)(532137)(515131)(416259)(462478)(498769)(498768)(498767)(498766)(970437)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970437"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79321001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970437.png",
+        "code": "45",
+        "name": "HD BANK",
+        "sub": "Ngân hàng Phát triển TP.HCM",
+        "subEn": "Ho Chi Minh city Development Joint Stock Commercial Bank ",
+        "label": "HD BANK - Ngân hàng Phát triển TP.HCM",
+        "labelEn": "HD BANK - Ho Chi Minh city Development Joint Stock Commercial Bank "
+    },
+    {
+        "omniBankCode": "47",
+        "nameVi": "Ngân hàng HongLeong Việt Nam",
+        "nameEn": "HLBVN",
+        "brandName": "HLBVN",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970442.png",
+        "binCard": "(412540)(970442)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970442"
+            },
+            {
+                "channel": 3,
+                "bankCode": "01603001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970442.png",
+        "code": "47",
+        "name": "HLBVN",
+        "sub": "Ngân hàng HongLeong Việt Nam",
+        "subEn": "Hong Leong Bank Vietnam Limited",
+        "label": "HLBVN - Ngân hàng HongLeong Việt Nam",
+        "labelEn": "HLBVN - Hong Leong Bank Vietnam Limited"
+    },
+    {
+        "omniBankCode": "48",
+        "nameVi": "Ngân hàng TNHH MTV HSBC Việt Nam",
+        "nameEn": "HSBC",
+        "brandName": "HSBC",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/458761.png",
+        "binCard": "(445094)(546022)(437841)(445093)(445590)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "458761"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79617001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/458761.png",
+        "code": "48",
+        "name": "HSBC",
+        "sub": "Ngân hàng TNHH MTV HSBC Việt Nam",
+        "subEn": "Hongkong-Shanghai Bank Vietnam Limited",
+        "label": "HSBC - Ngân hàng TNHH MTV HSBC Việt Nam",
+        "labelEn": "HSBC - Hongkong-Shanghai Bank Vietnam Limited"
+    },
+    {
+        "omniBankCode": "49",
+        "nameVi": "Ngân hàng Hua Nam Commercial Bank, Ltd  - CN TP Hồ Chí Minh",
+        "nameEn": "HUA NAN",
+        "brandName": "HUA NAN",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79640001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "49",
+        "name": "HUA NAN",
+        "sub": "Ngân hàng Hua Nam Commercial Bank, Ltd  - CN TP Hồ Chí Minh",
+        "subEn": "Hua Nam Commercial Bank, Ltd - Ho Chi Minh City Branch",
+        "label": "HUA NAN - Ngân hàng Hua Nam Commercial Bank, Ltd  - CN TP Hồ Chí Minh",
+        "labelEn": "HUA NAN - Hua Nam Commercial Bank, Ltd - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "50",
+        "nameVi": "Ngân hàng Công nghiệp Hàn Quốc  - CN Hà Nội",
+        "nameEn": "IBK BANK HN",
+        "brandName": "IBK BANK HN",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970455.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970455"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970455.png",
+        "code": "50",
+        "name": "IBK BANK HN",
+        "sub": "Ngân hàng Công nghiệp Hàn Quốc  - CN Hà Nội",
+        "subEn": "IBK BANK - Ha Noi Branch",
+        "label": "IBK BANK HN - Ngân hàng Công nghiệp Hàn Quốc  - CN Hà Nội",
+        "labelEn": "IBK BANK HN - IBK BANK - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "51",
+        "nameVi": "Ngân hàng Công nghiệp Hàn Quốc - CN TP Hồ Chí Minh",
+        "nameEn": "IBK HCM",
+        "brandName": "IBK HCM",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970456.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970456"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970456.png",
+        "code": "51",
+        "name": "IBK HCM",
+        "sub": "Ngân hàng Công nghiệp Hàn Quốc - CN TP Hồ Chí Minh",
+        "subEn": "Industrial Bank of Korea - Ho Chi Minh City Branch",
+        "label": "IBK HCM - Ngân hàng Công nghiệp Hàn Quốc - CN TP Hồ Chí Minh",
+        "labelEn": "IBK HCM - Industrial Bank of Korea - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "52",
+        "nameVi": "Ngân hàng Công Thương Trung Quốc",
+        "nameEn": "ICBC",
+        "brandName": "ICBC",
+        "binCard": "(409696)(409697)",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "01649001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "52",
+        "name": "ICBC",
+        "sub": "Ngân hàng Công Thương Trung Quốc",
+        "subEn": "Industrial and Commercial Bank of China Limited.,",
+        "label": "ICBC - Ngân hàng Công Thương Trung Quốc",
+        "labelEn": "ICBC - Industrial and Commercial Bank of China Limited.,"
+    },
+    {
+        "omniBankCode": "53",
+        "nameVi": " Ngân hàng TNHH Indovina",
+        "nameEn": "IVB",
+        "brandName": "IVB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970434.png",
+        "binCard": "(970434)(418248)(459220)(413534)(413535)(406598)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970434"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79502001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970434.png",
+        "code": "53",
+        "name": "IVB",
+        "sub": " Ngân hàng TNHH Indovina",
+        "subEn": "Indovina Bank Ltd",
+        "label": "IVB -  Ngân hàng TNHH Indovina",
+        "labelEn": "IVB - Indovina Bank Ltd"
+    },
+    {
+        "omniBankCode": "54",
+        "nameVi": "Ngân hàng JPMorgan Chase, N.A.",
+        "nameEn": "J.P.MORGAN",
+        "brandName": "J.P.MORGAN",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79627001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "54",
+        "name": "J.P.MORGAN",
+        "sub": "Ngân hàng JPMorgan Chase, N.A.",
+        "subEn": "JPMORGAN Chase Bank",
+        "label": "J.P.MORGAN - Ngân hàng JPMorgan Chase, N.A.",
+        "labelEn": "J.P.MORGAN - JPMORGAN Chase Bank"
+    },
+    {
+        "omniBankCode": "56",
+        "nameVi": "Ngân hàng Ngân hàng Kookmin - CN TP Hồ Chí Minh",
+        "nameEn": "KB HCM",
+        "brandName": "KB HCM",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970463.png",
+        "binCard": "(970463)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970463"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79631001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970463.png",
+        "code": "56",
+        "name": "KB HCM",
+        "sub": "Ngân hàng Ngân hàng Kookmin - CN TP Hồ Chí Minh",
+        "subEn": "BIDC bank - Ho Chi Minh City Branch",
+        "label": "KB HCM - Ngân hàng Ngân hàng Kookmin - CN TP Hồ Chí Minh",
+        "labelEn": "KB HCM - BIDC bank - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "57",
+        "nameVi": "Ngân hàng Kookmin - CN Hà Nội",
+        "nameEn": "KB HN",
+        "brandName": "KB HN",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970462.png",
+        "binCard": "(970462)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970462"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01666001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970462.png",
+        "code": "57",
+        "name": "KB HN",
+        "sub": "Ngân hàng Kookmin - CN Hà Nội",
+        "subEn": "Kookmin Bank - Ha Noi Branch",
+        "label": "KB HN - Ngân hàng Kookmin - CN Hà Nội",
+        "labelEn": "KB HN - Kookmin Bank - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "58",
+        "nameVi": "Ngân hàng đại chúng TNHH KASIKORNBANK - CN TP Hồ Chí Minh",
+        "nameEn": "KBANK",
+        "brandName": "KBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/668888.png",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79669001"
+            },
+            {
+                "channel": 1,
+                "bankCode": "668888"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/668888.png",
+        "code": "58",
+        "name": "KBANK",
+        "sub": "Ngân hàng đại chúng TNHH KASIKORNBANK - CN TP Hồ Chí Minh",
+        "subEn": "KASIKORNBANK public company limited - Ho Chi Minh City Branch",
+        "label": "KBANK - Ngân hàng đại chúng TNHH KASIKORNBANK - CN TP Hồ Chí Minh",
+        "labelEn": "KBANK - KASIKORNBANK public company limited - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "59",
+        "nameVi": "Ngân hàng KEB HANA – CN Hà Nội",
+        "nameEn": "KEB HANA",
+        "brandName": "KEB HANA",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970467.png",
+        "binCard": "(970467)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970467"
+            },
+            {
+                "channel": 2,
+                "bankCode": "1626001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970467.png",
+        "code": "59",
+        "name": "KEB HANA",
+        "sub": "Ngân hàng KEB HANA – CN Hà Nội",
+        "subEn": "Keb Hana bank - Ha Noi Branch",
+        "label": "KEB HANA - Ngân hàng KEB HANA – CN Hà Nội",
+        "labelEn": "KEB HANA - Keb Hana bank - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "60",
+        "nameVi": "Ngân hàng KEB HANA  - CN TP Hồ Chí Minh",
+        "nameEn": "KEB HANA",
+        "brandName": "KEB HANA",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970466.png",
+        "binCard": "(970466)",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79656001"
+            },
+            {
+                "channel": 1,
+                "bankCode": "970466"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970466.png",
+        "code": "60",
+        "name": "KEB HANA",
+        "sub": "Ngân hàng KEB HANA  - CN TP Hồ Chí Minh",
+        "subEn": "Keb Hana bank - Ho Chi Minh City Branch",
+        "label": "KEB HANA - Ngân hàng KEB HANA  - CN TP Hồ Chí Minh",
+        "labelEn": "KEB HANA - Keb Hana bank - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "61",
+        "nameVi": "Ngân hàng Kiên Long",
+        "nameEn": "KIEN LONG BANK",
+        "brandName": "KIEN LONG BANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970452.png",
+        "binCard": "(970452)(403686)(357113)(356438)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970452"
+            },
+            {
+                "channel": 2,
+                "bankCode": "91353001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970452.png",
+        "code": "61",
+        "name": "KIEN LONG BANK",
+        "sub": "Ngân hàng Kiên Long",
+        "subEn": "Kien Long Commercial Joint Stock Bank",
+        "label": "KIEN LONG BANK - Ngân hàng Kiên Long",
+        "labelEn": "KIEN LONG BANK - Kien Long Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "62",
+        "nameVi": "Ngân hàng TMCP Lộc Phát Việt Nam",
+        "nameEn": "LPBank",
+        "brandName": "LPBank",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970449.png",
+        "binCard": "(970449)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970449"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01357001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970449.png",
+        "code": "62",
+        "name": "LPBank",
+        "sub": "Ngân hàng TMCP Lộc Phát Việt Nam",
+        "subEn": "Fortune Vietnam Joint Stock Commercial Bank",
+        "label": "LPBank - Ngân hàng TMCP Lộc Phát Việt Nam",
+        "labelEn": "LPBank - Fortune Vietnam Joint Stock Commercial Bank"
+    },
+    {
+        "omniBankCode": "63",
+        "nameVi": "Ngân hàng số Liobank – Ngân hàng TMCP Phương Đông",
+        "nameEn": "LIOBANK",
+        "brandName": "LIOBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963369.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "963369"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963369.png",
+        "code": "63",
+        "name": "LIOBANK",
+        "sub": "Ngân hàng số Liobank – Ngân hàng TMCP Phương Đông",
+        "subEn": "Liobank – Orient Commercial Joint Stock Bank",
+        "label": "LIOBANK - Ngân hàng số Liobank – Ngân hàng TMCP Phương Đông",
+        "labelEn": "LIOBANK - Liobank – Orient Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "64",
+        "nameVi": "Công ty Tài chính TNHH MTV Mirae Asset Việt Nam",
+        "nameEn": "MAFC",
+        "brandName": "MAFC",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/977777.png",
+        "binCard": "(970468)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "977777"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/977777.png",
+        "code": "64",
+        "name": "MAFC",
+        "sub": "Công ty Tài chính TNHH MTV Mirae Asset Việt Nam",
+        "subEn": "Mirae Asset Finance Company VN",
+        "label": "MAFC - Công ty Tài chính TNHH MTV Mirae Asset Việt Nam",
+        "labelEn": "MAFC - Mirae Asset Finance Company VN"
+    },
+    {
+        "omniBankCode": "65",
+        "nameVi": "Ngân hàng Quân Đội",
+        "nameEn": "MB",
+        "brandName": "MB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970422.png",
+        "binCard": "(970422)(97042292)(97042293)(548566)(484803)(484804)(472674)(356418)(356419)(356433)(530416)(403716)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970422"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01311001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970422.png",
+        "code": "65",
+        "name": "MB",
+        "sub": "Ngân hàng Quân Đội",
+        "subEn": "Military Commercial Joint Stock Bank",
+        "label": "MB - Ngân hàng Quân Đội",
+        "labelEn": "MB - Military Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "66",
+        "nameVi": "Ngân hàng Malayan Banking Berhad - CN Hà Nội",
+        "nameEn": "Maybank Hanoi",
+        "brandName": "Maybank Hanoi",
+        "binCard": "()",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "01609001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "66",
+        "name": "Maybank Hanoi",
+        "sub": "Ngân hàng Malayan Banking Berhad - CN Hà Nội",
+        "subEn": "Malayan Banking Berhad - Ha Noi Branch",
+        "label": "Maybank Hanoi - Ngân hàng Malayan Banking Berhad - CN Hà Nội",
+        "labelEn": "Maybank Hanoi - Malayan Banking Berhad - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "67",
+        "nameVi": "Ngân hàng Malayan Banking Berhad TP. Hồ Chí Minh",
+        "nameEn": "Maybank HCMC",
+        "brandName": "Maybank HCMC",
+        "binCard": "()",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79635001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "67",
+        "name": "Maybank HCMC",
+        "sub": "Ngân hàng Malayan Banking Berhad TP. Hồ Chí Minh",
+        "subEn": "Malayan Banking Berhad - Ho Chi Minh City Branch",
+        "label": "Maybank HCMC - Ngân hàng Malayan Banking Berhad TP. Hồ Chí Minh",
+        "labelEn": "Maybank HCMC - Malayan Banking Berhad - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "68",
+        "nameVi": "Ngân hàng Mega International Commercial Bank Co., Ltd  - CN TP Hồ Chí Minh",
+        "nameEn": "MEGA ICBC",
+        "brandName": "MEGA ICBC",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79623001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "68",
+        "name": "MEGA ICBC",
+        "sub": "Ngân hàng Mega International Commercial Bank Co., Ltd  - CN TP Hồ Chí Minh",
+        "subEn": "Mega International Commercial Bank Co., Ltd - Ho Chi Minh City Branch",
+        "label": "MEGA ICBC - Ngân hàng Mega International Commercial Bank Co., Ltd  - CN TP Hồ Chí Minh",
+        "labelEn": "MEGA ICBC - Mega International Commercial Bank Co., Ltd - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "69",
+        "nameVi": "Ngân hàng Mizuho Bank, LTd - Chi nhánh Hà Nội",
+        "nameEn": "MIZUHO",
+        "brandName": "MIZUHO",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "01613001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "69",
+        "name": "MIZUHO",
+        "sub": "Ngân hàng Mizuho Bank, LTd - Chi nhánh Hà Nội",
+        "subEn": "Mizuho Corporate Bank, LTD - Ha Noi Branch",
+        "label": "MIZUHO - Ngân hàng Mizuho Bank, LTd - Chi nhánh Hà Nội",
+        "labelEn": "MIZUHO - Mizuho Corporate Bank, LTD - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "70",
+        "nameVi": "Ngân hàng Mizuho Bank, LTd",
+        "nameEn": "MIZUHO",
+        "brandName": "MIZUHO",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "79639001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "70",
+        "name": "MIZUHO",
+        "sub": "Ngân hàng Mizuho Bank, LTd",
+        "subEn": "Mizuho Corporate Bank, LTD",
+        "label": "MIZUHO - Ngân hàng Mizuho Bank, LTd",
+        "labelEn": "MIZUHO - Mizuho Corporate Bank, LTD"
+    },
+    {
+        "omniBankCode": "71",
+        "nameVi": "Ngân hàng Hàng Hải",
+        "nameEn": "MSB",
+        "brandName": "MSB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970426.png",
+        "binCard": "(970426)(511409)(521976)(510995)(516294)(430389)(532451)(402215)(472265)(412189)(402204)(479155)(527663)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970426"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01302001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970426.png",
+        "code": "71",
+        "name": "MSB",
+        "sub": "Ngân hàng Hàng Hải",
+        "subEn": "The Maritime Commercial Joint Stock Bank ",
+        "label": "MSB - Ngân hàng Hàng Hải",
+        "labelEn": "MSB - The Maritime Commercial Joint Stock Bank "
+    },
+    {
+        "omniBankCode": "73",
+        "nameVi": "Ngân hàng MUFG Bank. Ltd - CN TP Hồ Chí Minh",
+        "nameEn": "MUFG",
+        "brandName": "MUFG",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79622001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "73",
+        "name": "MUFG",
+        "sub": "Ngân hàng MUFG Bank. Ltd - CN TP Hồ Chí Minh",
+        "subEn": "MUFG Bank. Ltd. - Ho Chi Minh City Branch",
+        "label": "MUFG - Ngân hàng MUFG Bank. Ltd - CN TP Hồ Chí Minh",
+        "labelEn": "MUFG - MUFG Bank. Ltd. - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "74",
+        "nameVi": "Ngân hàng MUFG Bank. Ltd – Chi Nhánh Hà Nội",
+        "nameEn": "MUFG",
+        "brandName": "MUFG",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "01653001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "74",
+        "name": "MUFG",
+        "sub": "Ngân hàng MUFG Bank. Ltd – Chi Nhánh Hà Nội",
+        "subEn": "MUFG Bank. Ltd. - Ha Noi Branch",
+        "label": "MUFG - Ngân hàng MUFG Bank. Ltd – Chi Nhánh Hà Nội",
+        "labelEn": "MUFG - MUFG Bank. Ltd. - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "76",
+        "nameVi": "Ngân hàng Nam Á",
+        "nameEn": "NAM A BANK",
+        "brandName": "NAM A BANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970428.png",
+        "binCard": "(970428)(524083)(533147)(533968)(559270)(528645)(516995)(356519)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970428"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79306001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970428.png",
+        "code": "76",
+        "name": "NAM A BANK",
+        "sub": "Ngân hàng Nam Á",
+        "subEn": "Nam A Commercial Joint Stock Bank",
+        "label": "NAM A BANK - Ngân hàng Nam Á",
+        "labelEn": "NAM A BANK - Nam A Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "77",
+        "nameVi": "Công ty Cổ phần Thanh toán Quốc gia Việt Nam",
+        "nameEn": "NAPAS",
+        "brandName": "NAPAS",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/971100.jpg",
+        "binCard": "(444697)(444698)(444699)(444808)(444811)(444813)(445026)(445093)(445094)(445235)(445237)(445238)(445304)(445885)(446197)(446237)(446302)(446325)(446420)(446892)(447279)(447958)(447964)(448118)(448731)(448740)(448760)(448761)(448967)(449102)(449134)(449150)(449331)(450181)(450214)(450255)(450565)(450642)(450659)(450851)(450852)(450976)(450977)(451152)(451313)(451361)(451362)(451370)(451395)(451475)(451702)(451709)(451755)(451774)(452136)(452298)(452410)(452490)(452491)(452999)(453538)(453918)(453919)(453920)(453921)(454078)(454081)(454082)(454083)(454084)(454085)(454709)(454710)(454844)(454938)(454947)(454958)(454959)(455087)(455372)(455627)(455872)(456511)(457271)(457327)(457328)(457353)(457451)(457560)(457561)(458440)(458761)(459974)(460066)(461206)(461207)(461264)(461280)(461930)(461932)(461937)(462755)(462761)(462957)(463528)(463602)(463739)(464083)(464240)(464384)(464457)(464932)(465120)(465149)(465162)(465163)(465214)(465255)(465263)(466238)(466582)(466584)(466585)(466789)(467512)(467517)(468789)(469374)(469563)(469655)(469676)(469678)(469682)(469683)(469684)(469685)(470548)(470549)(470570)(470751)(470970)(470971)(472626)(472708)(472815)(472816)(474606)(474608)(474610)(474611)(474612)(474649)(474866)(475051)(475526)(475604)(476407)(476408)(476409)(476632)(477784)(477937)(477938)(477958)(478097)(478202)(478403)(478406)(478423)(478451)(478458)(478459)(478462)(478466)(478468)(478469)(478477)(478481)(478482)(478669)(478792)(478802)(478808)(478873)(479138)(479139)(479140)(479587)(479588)(479591)(479973)(480074)(480075)(480237)(480246)(480295)(480680)(480699)(481404)(481408)(481749)(481761)(481769)(481909)(482020)(482063)(482068)(482124)(482200)(482406)(482810)(482811)(482914)(483542)(483931)(483946)(483960)(483977)(484098)(484330)(484383)(485366)(486010)(486122)(486193)(486279)(486280)(486282)(486283)(486862)(486863)(486876)(489044)(489501)(490017)(490722)(490742)(491085)(491086)(491088)(491097)(491216)(491221)(491223)(491257)(491270)(491297)(491300)(491361)(491363)(491423)(491442)(491469)(491500)(491618)(491728)(491756)(491763)(491764)(491793)(492236)(493404)(493434)(493807)(493811)(493830)(493852)(494109)(494146)(494333)(496616)(496694)(497214)(497966)(498422)(498795)(498796)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "971100"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/971100.jpg",
+        "code": "77",
+        "name": "NAPAS",
+        "sub": "Công ty Cổ phần Thanh toán Quốc gia Việt Nam",
+        "subEn": "National Payment Corporation of Vietnam",
+        "label": "NAPAS - Công ty Cổ phần Thanh toán Quốc gia Việt Nam",
+        "labelEn": "NAPAS - National Payment Corporation of Vietnam"
+    },
+    {
+        "omniBankCode": "78",
+        "nameVi": "Ngân hàng Quốc Dân",
+        "nameEn": "NCB",
+        "brandName": "NCB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970419.png",
+        "binCard": "(970419)(410747)(410768)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970419"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79352001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970419.png",
+        "code": "78",
+        "name": "NCB",
+        "sub": "Ngân hàng Quốc Dân",
+        "subEn": "National Citizen bank ",
+        "label": "NCB - Ngân hàng Quốc Dân",
+        "labelEn": "NCB - National Citizen bank "
+    },
+    {
+        "omniBankCode": "79",
+        "nameVi": "Ngân hàng Nonghuyp - Chi nhánh Hà Nội",
+        "nameEn": "NONGHUYP",
+        "brandName": "NONGHUYP",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/801011.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "801011"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01662001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/801011.png",
+        "code": "79",
+        "name": "NONGHUYP",
+        "sub": "Ngân hàng Nonghuyp - Chi nhánh Hà Nội",
+        "subEn": "Nonghuyp bank - Ha Noi Branch",
+        "label": "NONGHUYP - Ngân hàng Nonghuyp - Chi nhánh Hà Nội",
+        "labelEn": "NONGHUYP - Nonghuyp bank - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "80",
+        "nameVi": "Ngân hàng Phương Đông",
+        "nameEn": "OCB",
+        "brandName": "OCB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970448.png",
+        "binCard": "(970448)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970448"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79333001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970448.png",
+        "code": "80",
+        "name": "OCB",
+        "sub": "Ngân hàng Phương Đông",
+        "subEn": "Orient Commercial Joint Stock Bank",
+        "label": "OCB - Ngân hàng Phương Đông",
+        "labelEn": "OCB - Orient Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "81",
+        "nameVi": "Ngân hàng Oversea-Chinese Banking Corporation LTD  - CN TP Hồ Chí Minh",
+        "nameEn": "OCBC",
+        "brandName": "OCBC",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79625001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "81",
+        "name": "OCBC",
+        "sub": "Ngân hàng Oversea-Chinese Banking Corporation LTD  - CN TP Hồ Chí Minh",
+        "subEn": "Oversea-Chinese Banking Corporation LTD - Ho Chi Minh City Branch",
+        "label": "OCBC - Ngân hàng Oversea-Chinese Banking Corporation LTD  - CN TP Hồ Chí Minh",
+        "labelEn": "OCBC - Oversea-Chinese Banking Corporation LTD - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "82",
+        "nameVi": "NH TNHH MTV Việt Nam Hiện Đại",
+        "nameEn": "MBV",
+        "brandName": "MBV",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970414.png",
+        "binCard": "(970414)(477560)(477561)(436467)(436468)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970414"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01319001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970414.png",
+        "code": "82",
+        "name": "MBV",
+        "sub": "NH TNHH MTV Việt Nam Hiện Đại",
+        "subEn": "Modern Bank of Vietnam Limited",
+        "label": "MBV - NH TNHH MTV Việt Nam Hiện Đại",
+        "labelEn": "MBV - Modern Bank of Vietnam Limited"
+    },
+    {
+        "omniBankCode": "83",
+        "nameVi": "Ngân hàng TNHH MTV Public Viet Nam",
+        "nameEn": "PBVN",
+        "brandName": "PBVN",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970439.png",
+        "binCard": "(417354)(970439)(475771)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970439"
+            },
+            {
+                "channel": 3,
+                "bankCode": "01501001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970439.png",
+        "code": "83",
+        "name": "PBVN",
+        "sub": "Ngân hàng TNHH MTV Public Viet Nam",
+        "subEn": "Public Bank Viet Nam",
+        "label": "PBVN - Ngân hàng TNHH MTV Public Viet Nam",
+        "labelEn": "PBVN - Public Bank Viet Nam"
+    },
+    {
+        "omniBankCode": "84",
+        "nameVi": "Ngân hàng TMCP Thịnh vượng và Phát triển (PGBANK)",
+        "nameEn": "PGBANK",
+        "brandName": "PGBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970430.jpg",
+        "binCard": "(970430)(437893)(437894)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970430"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01341001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970430.jpg",
+        "code": "84",
+        "name": "PGBANK",
+        "sub": "Ngân hàng TMCP Thịnh vượng và Phát triển (PGBANK)",
+        "subEn": "Prosperity and Growth Commercial Joint Stock Bank ",
+        "label": "PGBANK - Ngân hàng TMCP Thịnh vượng và Phát triển (PGBANK)",
+        "labelEn": "PGBANK - Prosperity and Growth Commercial Joint Stock Bank "
+    },
+    {
+        "omniBankCode": "85",
+        "nameVi": "Ngân hàng Đại chúng",
+        "nameEn": "PVCOMBANK",
+        "brandName": "PVCOMBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970412.png",
+        "binCard": "(970412)(538742)(542553)(511962)(519501)(517454)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970412"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01360001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970412.png",
+        "code": "85",
+        "name": "PVCOMBANK",
+        "sub": "Ngân hàng Đại chúng",
+        "subEn": "Public Vietnam Bank",
+        "label": "PVCOMBANK - Ngân hàng Đại chúng",
+        "labelEn": "PVCOMBANK - Public Vietnam Bank"
+    },
+    {
+        "omniBankCode": "86",
+        "nameVi": "Ngân hàng Sài Gòn thương tín",
+        "nameEn": "SACOMBANK",
+        "brandName": "SACOMBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970403.png",
+        "binCard": "(422151)(436438)(436445)(469654)(472074)(472075)(486265)(512341)(526830)(621055)(625002)(970403)(401520)(461137)(461138)(461140)(466243)(356480)(356481)(552332)(517416)(356062)(357115)(412725)(455376)(423238)(553632)(529212)(537127)(555715)(370988)(370989)(428472)(332074)(327159)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970403"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79303001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970403.png",
+        "code": "86",
+        "name": "SACOMBANK",
+        "sub": "Ngân hàng Sài Gòn thương tín",
+        "subEn": "Saigon Thuong TinCommercial Joint Stock Bank ",
+        "label": "SACOMBANK - Ngân hàng Sài Gòn thương tín",
+        "labelEn": "SACOMBANK - Saigon Thuong TinCommercial Joint Stock Bank "
+    },
+    {
+        "omniBankCode": "87",
+        "nameVi": "Ngân hàng Sài Gòn Công Thương",
+        "nameEn": "SAIGONBANK",
+        "brandName": "SAIGONBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970400.png",
+        "binCard": "(970400)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970400"
+            },
+            {
+                "channel": 3,
+                "bankCode": "79308001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970400.png",
+        "code": "87",
+        "name": "SAIGONBANK",
+        "sub": "Ngân hàng Sài Gòn Công Thương",
+        "subEn": "Saigon Bank for Industry & Trade",
+        "label": "SAIGONBANK - Ngân hàng Sài Gòn Công Thương",
+        "labelEn": "SAIGONBANK - Saigon Bank for Industry & Trade"
+    },
+    {
+        "omniBankCode": "88",
+        "nameVi": "Ngân hàng Sài Gòn",
+        "nameEn": "SCB",
+        "brandName": "SCB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970429.png",
+        "binCard": "(970429)(489516)(489517)(489518)(510235)(545579)(554627)(550796)(453618)(512454)(547139)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970429"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79334001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970429.png",
+        "code": "88",
+        "name": "SCB",
+        "sub": "Ngân hàng Sài Gòn",
+        "subEn": "Sai Gon Commercial Joint Stock Bank",
+        "label": "SCB - Ngân hàng Sài Gòn",
+        "labelEn": "SCB - Sai Gon Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "89",
+        "nameVi": "Ngân hàng The Siam Commercial Bank Public Company Limited  - CN TP Hồ Chí Minh",
+        "nameEn": "SCB",
+        "brandName": "SCB",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79600001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "89",
+        "name": "SCB",
+        "sub": "Ngân hàng The Siam Commercial Bank Public Company Limited  - CN TP Hồ Chí Minh",
+        "subEn": "The Siam Commercial Bank Public Company Limited - Ho Chi Minh City Branch",
+        "label": "SCB - Ngân hàng The Siam Commercial Bank Public Company Limited  - CN TP Hồ Chí Minh",
+        "labelEn": "SCB - The Siam Commercial Bank Public Company Limited - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "91",
+        "nameVi": "Ngân hàng TNHH MTV Standard Chartered Việt Nam",
+        "nameEn": "SCVN",
+        "brandName": "SCVN",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970410.png",
+        "binCard": "(526181)(516101)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970410"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01604002"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970410.png",
+        "code": "91",
+        "name": "SCVN",
+        "sub": "Ngân hàng TNHH MTV Standard Chartered Việt Nam",
+        "subEn": "Standard Chartered Bank (Vietnam) Limited ",
+        "label": "SCVN - Ngân hàng TNHH MTV Standard Chartered Việt Nam",
+        "labelEn": "SCVN - Standard Chartered Bank (Vietnam) Limited "
+    },
+    {
+        "omniBankCode": "92",
+        "nameVi": "Ngân hàng Đông Nam Á",
+        "nameEn": "SEABANK",
+        "brandName": "SEABANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970440.png",
+        "binCard": "(970440)(540392)(537158)(437420)(437421)(436545)(436546)(476636)(405082)(523611)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970440"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01317001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970440.png",
+        "code": "92",
+        "name": "SEABANK",
+        "sub": "Ngân hàng Đông Nam Á",
+        "subEn": "Southeast Asia Commercial Joint Stock Bank",
+        "label": "SEABANK - Ngân hàng Đông Nam Á",
+        "labelEn": "SEABANK - Southeast Asia Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "93",
+        "nameVi": "Ngân hàng Sài Gòn Hà Nội",
+        "nameEn": "SHB",
+        "brandName": "SHB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970443.png",
+        "binCard": "(970443)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970443"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01348002"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970443.png",
+        "code": "93",
+        "name": "SHB",
+        "sub": "Ngân hàng Sài Gòn Hà Nội",
+        "subEn": "Saigon-Hanoi Commercial Joint Stock Bank",
+        "label": "SHB - Ngân hàng Sài Gòn Hà Nội",
+        "labelEn": "SHB - Saigon-Hanoi Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "94",
+        "nameVi": "Ngân hàng Shinhan Bank Việt Nam",
+        "nameEn": "SHINHAN",
+        "brandName": "SHINHAN",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970424.png",
+        "binCard": "(970424)(469672)(469673)(469674)(403013)(421595)(462842)(462843)(462844)(401559)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970424"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79616001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970424.png",
+        "code": "94",
+        "name": "SHINHAN",
+        "sub": "Ngân hàng Shinhan Bank Việt Nam",
+        "subEn": "Shinhan Bank Vietnam Limited",
+        "label": "SHINHAN - Ngân hàng Shinhan Bank Việt Nam",
+        "labelEn": "SHINHAN - Shinhan Bank Vietnam Limited"
+    },
+    {
+        "omniBankCode": "95",
+        "nameVi": "Ngân hàng Sumitomo Mitsui banking corporation",
+        "nameEn": "SMBC",
+        "brandName": "SMBC",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "01636001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "95",
+        "name": "SMBC",
+        "sub": "Ngân hàng Sumitomo Mitsui banking corporation",
+        "subEn": "Sumitomo Mitsui Banking Corporation",
+        "label": "SMBC - Ngân hàng Sumitomo Mitsui banking corporation",
+        "labelEn": "SMBC - Sumitomo Mitsui Banking Corporation"
+    },
+    {
+        "omniBankCode": "96",
+        "nameVi": "Công ty Tài chính TNHH MTV Shinhan Việt Nam",
+        "nameEn": "SVFC",
+        "brandName": "SVFC",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963368.png",
+        "binCard": "(521251)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "963368"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963368.png",
+        "code": "96",
+        "name": "SVFC",
+        "sub": "Công ty Tài chính TNHH MTV Shinhan Việt Nam",
+        "subEn": "Shinhan Vietnam Finace company Limited",
+        "label": "SVFC - Công ty Tài chính TNHH MTV Shinhan Việt Nam",
+        "labelEn": "SVFC - Shinhan Vietnam Finace company Limited"
+    },
+    {
+        "omniBankCode": "97",
+        "nameVi": "Ngân hàng Hua Nam Commercial Bank, Ltd  – Chi nhánh Bình Dương",
+        "nameEn": "TAIPEI FUBON",
+        "brandName": "TAIPEI FUBON",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "74655001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "97",
+        "name": "TAIPEI FUBON",
+        "sub": "Ngân hàng Hua Nam Commercial Bank, Ltd  – Chi nhánh Bình Dương",
+        "subEn": "Hua Nam Commercial Bank, Ltd - Binh Dương Branch",
+        "label": "TAIPEI FUBON - Ngân hàng Hua Nam Commercial Bank, Ltd  – Chi nhánh Bình Dương",
+        "labelEn": "TAIPEI FUBON - Hua Nam Commercial Bank, Ltd - Binh Dương Branch"
+    },
+    {
+        "omniBankCode": "98",
+        "nameVi": "Ngân hàng Taipei Fubon Commercial Bank Co., Ltd  - CN TP Hồ Chí Minh",
+        "nameEn": "TAIPEI FUBON",
+        "brandName": "TAIPEI FUBON",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79651001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "98",
+        "name": "TAIPEI FUBON",
+        "sub": "Ngân hàng Taipei Fubon Commercial Bank Co., Ltd  - CN TP Hồ Chí Minh",
+        "subEn": "Taipei Fubon Commercial Bank Co., Ltd - Ho Chi Minh City Branch",
+        "label": "TAIPEI FUBON - Ngân hàng Taipei Fubon Commercial Bank Co., Ltd  - CN TP Hồ Chí Minh",
+        "labelEn": "TAIPEI FUBON - Taipei Fubon Commercial Bank Co., Ltd - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "99",
+        "nameVi": "Ngân hàng TAIPEI FUBON",
+        "nameEn": "TAIPEI FUBONC.B",
+        "brandName": "TAIPEI FUBONC.B",
+        "supportChannel": [
+            {
+                "channel": 3,
+                "bankCode": "01642001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "99",
+        "name": "TAIPEI FUBONC.B",
+        "sub": "Ngân hàng TAIPEI FUBON",
+        "subEn": "TAIPEI FUBON COMMERCIAL BANK",
+        "label": "TAIPEI FUBONC.B - Ngân hàng TAIPEI FUBON",
+        "labelEn": "TAIPEI FUBONC.B - TAIPEI FUBON COMMERCIAL BANK"
+    },
+    {
+        "omniBankCode": "100",
+        "nameVi": "Ngân hàng Kỹ thương Việt Nam",
+        "nameEn": "TECHCOMBANK",
+        "brandName": "TECHCOMBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970407.png",
+        "binCard": "(970407)(483931)(422076)(403280)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970407"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01310005"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970407.png",
+        "code": "100",
+        "name": "TECHCOMBANK",
+        "sub": "Ngân hàng Kỹ thương Việt Nam",
+        "subEn": "Viet Nam Technological and Commercial Joint Stock Bank",
+        "label": "TECHCOMBANK - Ngân hàng Kỹ thương Việt Nam",
+        "labelEn": "TECHCOMBANK - Viet Nam Technological and Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "101",
+        "nameVi": "Ngân hàng Tiên phong",
+        "nameEn": "TPBANK",
+        "brandName": "TPBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970423.png",
+        "binCard": "(970423)(466582)(470970)(498796)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970423"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01358001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970423.png",
+        "code": "101",
+        "name": "TPBANK",
+        "sub": "Ngân hàng Tiên phong",
+        "subEn": "TienPhong Commercial Joint Stock Bank",
+        "label": "TPBANK - Ngân hàng Tiên phong",
+        "labelEn": "TPBANK - TienPhong Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "102",
+        "nameVi": "Ngân hàng UBANK BY VPBANK",
+        "nameEn": "UBANK",
+        "brandName": "UBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/546035.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "546035"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/546035.png",
+        "code": "102",
+        "name": "UBANK",
+        "sub": "Ngân hàng UBANK BY VPBANK",
+        "subEn": "UBANK by VPBANK",
+        "label": "UBANK - Ngân hàng UBANK BY VPBANK",
+        "labelEn": "UBANK - UBANK by VPBANK"
+    },
+    {
+        "omniBankCode": "103",
+        "nameVi": "Ngân hàng số UMEE by Kienlongbank",
+        "nameEn": "UMEE",
+        "brandName": "UMEE",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963399.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "963399"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963399.png",
+        "code": "103",
+        "name": "UMEE",
+        "sub": "Ngân hàng số UMEE by Kienlongbank",
+        "subEn": "UMEE by Kienlongbank",
+        "label": "UMEE - Ngân hàng số UMEE by Kienlongbank",
+        "labelEn": "UMEE - UMEE by Kienlongbank"
+    },
+    {
+        "omniBankCode": "104",
+        "nameVi": "Ngân hàng TNHH MTV UOB Việt Nam",
+        "nameEn": "UOB Vietnam",
+        "brandName": "UOB Vietnam",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970458.png",
+        "binCard": "(970458)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970458"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79665001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970458.png",
+        "code": "104",
+        "name": "UOB Vietnam",
+        "sub": "Ngân hàng TNHH MTV UOB Việt Nam",
+        "subEn": "United Overseas Bank (Vietnam) Limited - Ha Noi Branch",
+        "label": "UOB Vietnam - Ngân hàng TNHH MTV UOB Việt Nam",
+        "labelEn": "UOB Vietnam - United Overseas Bank (Vietnam) Limited - Ha Noi Branch"
+    },
+    {
+        "omniBankCode": "105",
+        "nameVi": "Ngân hàng Chính sách Xã hội VBSP",
+        "nameEn": "VBSP",
+        "brandName": "VBSP",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/999888.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "999888"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01207001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/999888.png",
+        "code": "105",
+        "name": "VBSP",
+        "sub": "Ngân hàng Chính sách Xã hội VBSP",
+        "subEn": "Vietnam Bank for Social Policies",
+        "label": "VBSP - Ngân hàng Chính sách Xã hội VBSP",
+        "labelEn": "VBSP - Vietnam Bank for Social Policies"
+    },
+    {
+        "omniBankCode": "106",
+        "nameVi": "Ngân hàng Phát triển Việt Nam",
+        "nameEn": "VDB",
+        "brandName": "VDB",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "01208001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "106",
+        "name": "VDB",
+        "sub": "Ngân hàng Phát triển Việt Nam",
+        "subEn": "The Vietnam Development Bank",
+        "label": "VDB - Ngân hàng Phát triển Việt Nam",
+        "labelEn": "VDB - The Vietnam Development Bank"
+    },
+    {
+        "omniBankCode": "107",
+        "nameVi": "Ngân hàng Quốc tế",
+        "nameEn": "VIB",
+        "brandName": "VIB",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970441.png",
+        "binCard": "(97044168)(512824)(526887)(513892)(513094)(531828)(536032)(423865)(463720)(370990)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970441"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79314013"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970441.png",
+        "code": "107",
+        "name": "VIB",
+        "sub": "Ngân hàng Quốc tế",
+        "subEn": "Vietnam International Commercial Joint Stock Bank",
+        "label": "VIB - Ngân hàng Quốc tế",
+        "labelEn": "VIB - Vietnam International Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "108",
+        "nameVi": "Ngân hàng Việt Á",
+        "nameEn": "VIET A BANK",
+        "brandName": "VIET A BANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970427.png",
+        "binCard": "(970427)(402534)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970427"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01355002"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970427.png",
+        "code": "108",
+        "name": "VIET A BANK",
+        "sub": "Ngân hàng Việt Á",
+        "subEn": "Viet A Commercial Joint Stock Bank ",
+        "label": "VIET A BANK - Ngân hàng Việt Á",
+        "labelEn": "VIET A BANK - Viet A Commercial Joint Stock Bank "
+    },
+    {
+        "omniBankCode": "109",
+        "nameVi": "Ngân hàng Bản Việt",
+        "nameEn": "Viet Capital Bank",
+        "brandName": "Viet Capital Bank",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970454.png",
+        "binCard": "(970454)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970454"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79327001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970454.png",
+        "code": "109",
+        "name": "Viet Capital Bank",
+        "sub": "Ngân hàng Bản Việt",
+        "subEn": "Viet Capital Commercial Joint Stock Bank",
+        "label": "Viet Capital Bank - Ngân hàng Bản Việt",
+        "labelEn": "Viet Capital Bank - Viet Capital Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "110",
+        "nameVi": "Ngân hàng Việt Nam Thương Tín",
+        "nameEn": "VIETBANK",
+        "brandName": "VIETBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970433.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970433"
+            },
+            {
+                "channel": 2,
+                "bankCode": "79356001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970433.png",
+        "code": "110",
+        "name": "VIETBANK",
+        "sub": "Ngân hàng Việt Nam Thương Tín",
+        "subEn": "Viet Nam Thuong Tin Commercial Joint Stock Bank",
+        "label": "VIETBANK - Ngân hàng Việt Nam Thương Tín",
+        "labelEn": "VIETBANK - Viet Nam Thuong Tin Commercial Joint Stock Bank"
+    },
+    {
+        "omniBankCode": "111",
+        "nameVi": "Viettel Money",
+        "nameEn": "VIETTEL MONEY",
+        "brandName": "VIETTEL MONEY",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/971005.png",
+        "binCard": "(353301)(356394)(356395)(356505)(356513)(356515)(356526)(356554)(356586)(356587)(356592)(356593)(356680)(356681)(356725)(356780)(356790)(356791)(356792)(356793)(356794)(356795)(357112)(357120)(357123)(357703)(357712)(365791)(620009)(620046)(621369)(621638)(625124)(625154)(625922)(625934)(626243)(629212)(400129)(401148)(401286)(401559)(402156)(402460)(402649)(402737)(403280)(403610)(403687)(403716)(403754)(403913)(403950)(404152)(404169)(404184)(404616)(404648)(404801)(405010)(405015)(405020)(405325)(405367)(405467)(405468)(405561)(405573)(405624)(405626)(405712)(405806)(405813)(405910)(405951)(406092)(406220)(407385)(407432)(407459)(407465)(407478)(407656)(407672)(407971)(407978)(408904)(408905)(408906)(409168)(409546)(409696)(409697)(410742)(410747)(410768)(411061)(411153)(412472)(412647)(412977)(413218)(413219)(413515)(413516)(413524)(413663)(414427)(414470)(414587)(414865)(414959)(415270)(415340)(415388)(415425)(415517)(415540)(415564)(415573)(415631)(415667)(415698)(415773)(415834)(415858)(415859)(416126)(416133)(416410)(418159)(418560)(418801)(418894)(419430)(419495)(419661)(419662)(420003)(420417)(420590)(420692)(420694)(421193)(421194)(421494)(421554)(421755)(422075)(422076)(422094)(422109)(422149)(422150)(422873)(422903)(422924)(422926)(422933)(423606)(423637)(423674)(423773)(423781)(423868)(423960)(424614)(424616)(424628)(424634)(424637)(425254)(426021)(426319)(426552)(427126)(427423)(427424)(427458)(427614)(427621)(427624)(428695)(428776)(428782)(428792)(428799)(429389)(429418)(429445)(429660)(429681)(429906)(430013)(430039)(430062)(430072)(430073)(430077)(430507)(430646)(430733)(430782)(430807)(430808)(430823)(430829)(430859)(430860)(430861)(430877)(430887)(430888)(430892)(431215)(431285)(431622)(431661)(431662)(431668)(431759)(431764)(431770)(432002)(432003)(432017)(432018)(432312)(432331)(432398)(432510)(432517)(432576)(432600)(432619)(432622)(432636)(432641)(432643)(432699)(432802)(432803)(432816)(432838)(432843)(432865)(432910)(432997)(433070)(433129)(433187)(433216)(433270)(433271)(433277)(433278)(433411)(433461)(433597)(433727)(433771)(434483)(435365)(435374)(435494)(435496)(435725)(436308)(436361)(436599)(437373)(437374)(437422)(437423)(437841)(437893)(437894)(438597)(440355)(441779)(442845)(443694)(443695)(443915)(444285)(444327)(444328)(444353)(444354)(444357)(444416)(444417)(444418)(444419)(444437)(444438)(444439)(444440)(444498)(970422)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "971005"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/971005.png",
+        "code": "111",
+        "name": "VIETTEL MONEY",
+        "sub": "Viettel Money",
+        "subEn": "Viettel Money",
+        "label": "VIETTEL MONEY - Viettel Money",
+        "labelEn": "VIETTEL MONEY - Viettel Money"
+    },
+    {
+        "omniBankCode": "112",
+        "nameVi": "Ngân hàng liên doanh Việt Thái - Chi nhánh Đồng Nai",
+        "nameEn": "Vinasiam Bank",
+        "brandName": "Vinasiam Bank",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "75504001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "112",
+        "name": "Vinasiam Bank",
+        "sub": "Ngân hàng liên doanh Việt Thái - Chi nhánh Đồng Nai",
+        "subEn": "Vinasiam bank - Dong Nai Branch",
+        "label": "Vinasiam Bank - Ngân hàng liên doanh Việt Thái - Chi nhánh Đồng Nai",
+        "labelEn": "Vinasiam Bank - Vinasiam bank - Dong Nai Branch"
+    },
+    {
+        "omniBankCode": "113",
+        "nameVi": "VNPT Money",
+        "nameEn": "VNPT MONEY",
+        "brandName": "VNPT MONEY",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/971011.png",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "971011"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/971011.png",
+        "code": "113",
+        "name": "VNPT MONEY",
+        "sub": "VNPT Money",
+        "subEn": "VNPT Money",
+        "label": "VNPT MONEY - VNPT Money",
+        "labelEn": "VNPT MONEY - VNPT Money"
+    },
+    {
+        "omniBankCode": "114",
+        "nameVi": "Ngân hàng Việt Nam Thịnh Vượng",
+        "nameEn": "VPBANK",
+        "brandName": "VPBANK",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970432.png",
+        "binCard": "(970432)(520395)(520399)(521377)(524394)(528626)(454119)(523975)(518966)(406453)(454107)(405280)(478668)(419834)(522384)(559073)(519930)(356772)(415815)(525394)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970432"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01309001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970432.png",
+        "code": "114",
+        "name": "VPBANK",
+        "sub": "Ngân hàng Việt Nam Thịnh Vượng",
+        "subEn": "Vietnam Commercial Joint Stock Bank for Private Enterprise ",
+        "label": "VPBANK - Ngân hàng Việt Nam Thịnh Vượng",
+        "labelEn": "VPBANK - Vietnam Commercial Joint Stock Bank for Private Enterprise "
+    },
+    {
+        "omniBankCode": "116",
+        "nameVi": "Ngân hàng Woori Việt Nam",
+        "nameEn": "Woori Bank",
+        "brandName": "Woori Bank",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970457.png",
+        "binCard": "(970457)(407459)(407759)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "970457"
+            },
+            {
+                "channel": 2,
+                "bankCode": "01663001"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/970457.png",
+        "code": "116",
+        "name": "Woori Bank",
+        "sub": "Ngân hàng Woori Việt Nam",
+        "subEn": "Woori Bank Vietnam Limited",
+        "label": "Woori Bank - Ngân hàng Woori Việt Nam",
+        "labelEn": "Woori Bank - Woori Bank Vietnam Limited"
+    },
+    {
+        "omniBankCode": "117",
+        "nameVi": "Ngân hàng TNHH MTV Woori Việt Nam - CN TP Hồ Chí Minh",
+        "nameEn": "Woori Bank Vietnam",
+        "brandName": "Woori Bank Vietnam",
+        "binCard": "(407459)(407759)(970457)",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "79637001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "117",
+        "name": "Woori Bank Vietnam",
+        "sub": "Ngân hàng TNHH MTV Woori Việt Nam - CN TP Hồ Chí Minh",
+        "subEn": "Woori Bank Vietnam Limited - Ho Chi Minh City Branch",
+        "label": "Woori Bank Vietnam - Ngân hàng TNHH MTV Woori Việt Nam - CN TP Hồ Chí Minh",
+        "labelEn": "Woori Bank Vietnam - Woori Bank Vietnam Limited - Ho Chi Minh City Branch"
+    },
+    {
+        "omniBankCode": "118",
+        "nameVi": "Ngân hàng The Shanghai Commercial & Savings Bank. Ltđ – CN Đồng Nai",
+        "nameEn": "SCSB",
+        "brandName": "SCSB",
+        "binCard": "()",
+        "supportChannel": [
+            {
+                "channel": 2,
+                "bankCode": "75606001"
+            }
+        ],
+        "logo": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "image": "./assets/media/icons/duotone/chi-nhanh.svg",
+        "code": "118",
+        "name": "SCSB",
+        "sub": "Ngân hàng The Shanghai Commercial & Savings Bank. Ltđ – CN Đồng Nai",
+        "subEn": "Shanghai Commercial & Savings Bank Ltd. - Dong Nai Branch",
+        "label": "SCSB - Ngân hàng The Shanghai Commercial & Savings Bank. Ltđ – CN Đồng Nai",
+        "labelEn": "SCSB - Shanghai Commercial & Savings Bank Ltd. - Dong Nai Branch"
+    },
+    {
+        "omniBankCode": "120",
+        "nameVi": "Kênh số hóa Vikki  – trực thuộc HDBank",
+        "nameEn": "Vikki by HDBank",
+        "brandName": "Vikki by HDBank",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963311.jpg",
+        "binCard": "(963311)",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "963311"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/963311.jpg",
+        "code": "120",
+        "name": "Vikki by HDBank",
+        "sub": "Kênh số hóa Vikki  – trực thuộc HDBank",
+        "subEn": "Vikki by HDBank",
+        "label": "Vikki by HDBank - Kênh số hóa Vikki  – trực thuộc HDBank",
+        "labelEn": "Vikki by HDBank - Vikki by HDBank"
+    },
+    {
+        "omniBankCode": "133",
+        "nameVi": "Ngân hàng số PVcombank",
+        "nameEn": "PVcombank Pay",
+        "brandName": "PVcombank Pay",
+        "logo": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/971133.png",
+        "binCard": "()",
+        "supportChannel": [
+            {
+                "channel": 1,
+                "bankCode": "971133"
+            }
+        ],
+        "image": "https://digibankm5.vietcombank.com.vn/get_file/ibomni/html/logo/971133.png",
+        "code": "133",
+        "name": "PVcombank Pay",
+        "sub": "Ngân hàng số PVcombank",
+        "subEn": "PVcomBank – Digital Banking",
+        "label": "PVcombank Pay - Ngân hàng số PVcombank",
+        "labelEn": "PVcombank Pay - PVcomBank – Digital Banking"
+    }
+]
