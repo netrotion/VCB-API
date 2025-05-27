@@ -179,6 +179,11 @@ class VCB:
                 "message" : "login success",
                 "data" : dec
             }
+        return {
+            "status" : False,
+            "message" : "login failed",
+            "data" : dec
+        }
     
     def _checksum():
         #khong can thiet :D
