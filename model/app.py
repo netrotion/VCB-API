@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify
 import tensorflow as tf
-from tensorflow import keras
+import keras
+from keras.layers import LSTM
+from keras.activations import relu
 import numpy as np
 import cv2
 import os
@@ -11,8 +13,20 @@ import io
 import urllib
 
 app = Flask(__name__)
+@keras.saving.register_keras_serializable()
+class FixedLSTM(LSTM):
+    def __init__(self, *args, **kwargs):
+        kwargs.pop("time_major", None)
+        super().__init__(*args, **kwargs)
 
-model       = keras.models.load_model("captcha_model.h5", custom_objects={'leaky_relu': tf.nn.leaky_relu})
+custom_objects = {
+    "LSTM": FixedLSTM,
+    "leaky_relu": tf.nn.leaky_relu,
+}
+
+with keras.saving.custom_object_scope(custom_objects):
+    model = keras.models.load_model("captcha_model.h5")
+
 img_width   = 160
 img_height  = 60
 max_length  = 5 
