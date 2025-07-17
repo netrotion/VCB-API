@@ -21,6 +21,7 @@ def create_guid() -> str:
 
 class Captcha:
     def __init__(self, captcha_guid: str, proxies: dict = {}) -> None:
+        self.endpoint = "http://127.0.0.1:5000"#https://hngl2808-predict.hf.space"
         self.guid = captcha_guid
         self.session = requests.Session()
         if proxies:
@@ -51,7 +52,7 @@ class Captcha:
         }
     
     def solving(self):
-        url = "https://hngl2808-predict.hf.space/predict"
+        url = f"{self.endpoint}/predict"
         images = self.session.get(
             f"https://digiapp.vietcombank.com.vn/utility-service/v2/captcha/MASS/{self.guid}"
         ).content
